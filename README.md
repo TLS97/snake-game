@@ -1,6 +1,6 @@
 # Snake Game
 ## Dependencies
-* Tkinter
+* Turtle
 
 ## How to run
 1. Download dependencies
