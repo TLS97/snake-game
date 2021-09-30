@@ -1,4 +1,6 @@
 # Snake Game
+<img src="snakegame.png" width="300">
+
 ## Dependencies
 * Turtle
 
